@@ -1,0 +1,51 @@
+@font-face {
+    font-family: fuente1;
+    font-style: normal;
+    font-weight: normal;
+    src: url(/fonts/CamingoCode-Bold.ttf);
+}
+
+@font-face {
+    font-family: fuente3;
+    font-style: normal;
+    font-weight: normal;
+    src: url(/fonts/CamingoCode-Regular.ttf);
+}
+
+@font-face {
+    font-family: fuente2;
+    font-style: normal;
+    font-weight: normal;
+    src: url(/fonts/neuropolitical_rg.ttf);
+}
+
+.tipografia_1{
+    font-family: fuente1;
+    font-size: 40px;
+}
+
+.tipografia_2{
+    font-family: fuente2;
+    font-size: 60px;
+    text-align: justify;
+}
+
+.tipografia_3{
+    font-family: fuente2;
+    font-size: 35px;
+}
+
+.tipografia_4{
+    font-family: fuente3;
+    color: rgb(98, 93, 93);
+    font-size: 21px;
+}
+
+.tipografia_5{
+    font-family: fuente3;
+    color: rgb(98, 93, 93);
+    font-size: 16px;
+}
+
+
+
